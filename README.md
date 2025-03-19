@@ -15,56 +15,41 @@
 - [Conclusion](#conclusion)
 
 ## Project Overview
-A comprehensive Tableau-based analysis comparing two website versions (A and B) for DigitalPath Innovations, a leading digital marketing solutions company. This project evaluates user engagement, conversion metrics, feedback patterns, and referral sources to determine the more effective design for enhancing user experience and maximizing business outcomes.
+The analysis using Tableau aims to conduct a comprehensive analysis between two website versions (A and B) for DigitalPath Innovations, a leading digital marketing solutions company. This project evaluates user engagement, conversion metrics, feedback patterns, and referral sources to determine the more effective design for enhancing user experience and maximizing business outcomes.
 
 ## Project Objectives
-Compare user engagement metrics between Version A and Version B
-Analyze conversion rates and identify optimization opportunities
-Evaluate user feedback and content interaction patterns
-Assess the impact of different referral sources on performance
-Provide data-driven recommendations for future design iterations
+The primary objective of this project is to perform a comprehensive analysis of user behaviour across the two webpage versions. Compare user engagement metrics, analyze conversion rates and identify optimization opportunities, evaluate user feedback and content interaction patterns, assess the impact of different referral sources on performance, and provide data-driven recommendations for future design iterations.
 
 ## Data Sources
-User engagement data (pages viewed, session duration, user actions)
-Conversion metrics (cart additions, checkout initiation, completed purchases)
-User feedback responses
-Content interaction statistics (video views, page interactions)
-Referral source tracking data
-Performance data spanning multiple months including April 2024
+The dataset used in this project was provided by 10Alytics. The dataset contains a collection of user behaviour metrics extracted from online transactions, including user engagement data (pages viewed, session duration, user actions), conversion metrics (cart additions, checkout initiation, completed purchases), user feedback responses, content interaction statistics (video views, page interactions) and referral source tracking data.
 
 ## Data Preprocessing
-Consolidated metrics from multiple platforms into a unified dataset
-Standardized engagement measurements across both website versions
-Segmented data by referral sources, user demographics, and interaction types
-Normalized temporal data to account for different testing periods
-Filtered anomalous data points to ensure statistical validity
+Before analyzing the data extensive data preprocessing was performed to ensure relevant information was extracted and in the right format ready for use. 
 
 ## Modeling
 Created interactive Tableau dashboards featuring:
 
 Comparative visualizations of key performance metrics
 Time-series analysis of conversion funnels
-Heat maps of user engagement patterns
 Correlation analysis between feedback sentiment and user actions
 Funnel analysis for conversion path optimization
 
 ## Evaluation Metrics
-Session duration and pages viewed per user
-Action completion rates
-Cart addition to checkout ratio
-Checkout to purchase conversion rate
-User feedback sentiment analysis
-Referral source effectiveness
-Revenue potential indicators
+- Session duration and pages viewed per user
+- Action completion rates
+- Cart addition to checkout ratio
+- Conversion rate
+- User feedback analysis
+- Referral source effectiveness
+- Revenue potential indicators
 
 ## Key Insights
-Version A significantly outperformed Version B in pages viewed and session duration
-Version B's conversion rate was nearly 50% lower than Version A's
-Both versions achieved 100% conversion rate in April 2024
-Version A received more positive user feedback, likely due to its interface design
-Version B users showed higher engagement with video content
-Version B exhibited stronger SEO performance, attracting more search engine traffic
-Version A received more direct referrals, indicating strong offline marketing
+- Version A significantly outperformed Version B in pages viewed and session duration
+- Version B's conversion rate was nearly 50% lower than Version A's
+- Version A received more positive user feedback, likely due to its interface design
+- Version B users showed higher engagement with video content
+- Version B exhibited stronger SEO performance, attracting more search engine traffic
+- Version A received more direct referrals, indicating strong offline marketing
 
 ## Conclusion
 Version A demonstrates superior overall performance with higher engagement metrics and conversion rates, making it the recommended foundation for future iterations. However, Version B shows potential in specific areas like video consumption and search engine optimization that should be incorporated. The optimal approach would combine Version A's user-friendly interface and conversion efficiency with Version B's content engagement strengths and SEO capabilities.
